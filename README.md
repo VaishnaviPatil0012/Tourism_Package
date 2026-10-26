@@ -1,4 +1,4 @@
-<h1 align="center">✈️ Travel Package Prediction</h1>
+<h1 align="center">✈️ Tourism Package Prediction</h1>
 
 <p align="center">
   <b>Machine Learning Project | Python | Scikit-learn</b>
